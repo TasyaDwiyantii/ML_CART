@@ -7,7 +7,7 @@ import numpy as np
 st.set_page_config(page_title="Prediksi Customer Churn", page_icon="📊", layout="wide")
 
 # Load model
-loaded_model = joblib.load('Cart-Customer_Churn.pkl')
+loaded_model = joblib.load('machine_learning/App/Cart-Customer_Churn.pkl')
 
 # Fungsi utama aplikasi
 def main():
