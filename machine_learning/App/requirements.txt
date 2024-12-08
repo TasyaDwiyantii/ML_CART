@@ -4,4 +4,4 @@ scikit-learn
 imbalanced-learn
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
